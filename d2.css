@@ -1,0 +1,42 @@
+body
+{
+   background:black;
+   color:white;
+
+}
+.courses
+{
+  display:flex;
+  gap:1rem;
+  padding: 1rem;
+  border: 1px solid whitesmoke;
+  border-radius:6px;
+  margin:0 auto;
+}
+
+.courses article
+{
+    flex:1;
+    padding:20px;
+  
+border: 1px solid whitesmoke;
+  border-radius:6px;
+    margin:0 auto;
+}
+h2
+{
+    text-align:center;
+
+}
+
+p
+{
+text-align:center;
+}
+
+
+button
+{
+    margin:0 auto;
+}
+
